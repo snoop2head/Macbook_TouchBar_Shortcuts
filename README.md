@@ -26,7 +26,7 @@
 
 2. Choose Quick Action
 
-![img](https://k.kakaocdn.net/dn/cX5b5R/btqCbT5m6NR/t0hIShG5VlKHvetDxd89Qk/img.png)
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcX5b5R%2FbtqCbT5m6NR%2Ft0hIShG5VlKHvetDxd89Qk%2Fimg.png)
 
 3. You'll get this screen after selecting quick action
 
