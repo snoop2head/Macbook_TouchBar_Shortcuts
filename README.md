@@ -1,18 +1,22 @@
-## Macbook Pro Touchbar Shortcuts for Developers
+# Macbook Pro Touchbar Shortcuts for Developers
 
-1. Right Click to open folder with certain programs: Iterm2, Typora, VSC etc...
+## What you can do
 
-![img](https://k.kakaocdn.net/dn/purvw/btqCdhjUMVM/s9QOiJMSDyWVLyxcr1nCz1/img.png)
+1. **For Macbook Pros with touch bars, you can open folder with programs with one click.**
 
-2. For Macbook Pros with touch bars, you can open folder with programs with one click.
-
-Shortcut Buttons will look like this on TouchBar
+- **On touchbar, shortcut Buttons will look like following** 
 
 ![touchbar_example](./imgs/touchbar_example.png)
 
-Runthrough Example: Open folder with VSCode
+- **Runthrough Example: Open folder with VSCode**
 
 ![gif](./imgs/gif.gif)
+
+2. **Right Click to open folder with certain programs: Iterm2, Typora, VSC etc...**
+
+![img](https://k.kakaocdn.net/dn/purvw/btqCdhjUMVM/s9QOiJMSDyWVLyxcr1nCz1/img.png)
+
+
 
 ## How
 
