@@ -6,9 +6,13 @@
 
 2. For Macbook Pros with touch bars, you can open folder with programs with one click.
 
-![img](https://k.kakaocdn.net/dn/bxZF2X/btqB9Yfv7Bh/y5o4jwUr6NxfkWAmj44u5k/img.gif)
+Shortcut Buttons will look like this on TouchBar
 
+![touchbar_example](./imgs/touchbar_example.png)
 
+Runthrough Example: Open folder with VSCode
+
+![gif](./imgs/gif.gif)
 
 ## How
 
